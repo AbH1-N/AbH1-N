@@ -73,7 +73,7 @@ title{
 }
 
 .btn.secondary{
-  border: 1px solid rgba(255, 255, 255, .15); color: var(--text); background: rgba(255, 255, 255, .04);
+  border: 1px solid rgba(255, 255, 255, .15); color: var(--text); background: rgba(255, 255, 255, .04); margin-top: 10px;
 }
 
 .btn:hover{
@@ -121,6 +121,13 @@ title{
   text-align: center;
   margin-bottom: 20px;
   font-size: 28px;
+  color: var(--accent);
+}
+
+.page h2{
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 24px;
   color: var(--accent);
 }
 
