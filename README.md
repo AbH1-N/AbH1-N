@@ -1,6 +1,6 @@
 ## Abhin Ashok — Data Analyst
 
-BSc Computer Science · Advanced Data Analytics, Zoople Technologies (2026)
+BSc Computer Science · Advanced Data Analytics, Zoople Technologies (2026) |
 Calicut, Kerala | Open to healthcare analytics & BFSI data analyst roles
 
 ### What I build
